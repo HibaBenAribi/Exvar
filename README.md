@@ -1,6 +1,6 @@
 # Exvar: An R Package for Gene Expression and Genetic Variation Data Analysis and Visualization
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HibaBenAribi/Exvar/main/exvar-logo.png" alt="exvar logo" />
+  <img src="https://raw.githubusercontent.com/HibaBenAribi/Exvar/main/exvar-logo.png" alt="exvar logo" width="300"  />
 </p>
 
 ## Table of Contents
